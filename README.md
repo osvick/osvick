@@ -38,9 +38,28 @@ I'm actively building and contributing to:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
-🗂️ Featured Projects
+💼 Project Interests & Ongoing Learning
+As I progress through the ALX Front-End Software Engineering program, I'm actively learning and building the foundational skills to work on real-world projects.
 
-Here are a few projects that reflect my interests and goals:
+I'm currently focused on:
+
+🧱 Strengthening my front-end development skills with HTML, CSS, JavaScript, React, and Tailwind.
+
+🧠 Understanding UI/UX best practices and how to build accessible, user-friendly interfaces.
+
+📚 Completing structured learning tasks and practice challenges to prepare for hands-on development.
+
+👥 Exploring collaboration opportunities with peers on beginner-friendly open-source projects.
+
+I'm excited to soon begin work on:
+
+🎓 Educational platforms and learning tools
+
+🌍 Civic-tech or health-awareness web apps
+
+📊 Portfolio-ready projects that showcase responsive design and clean code
+
+Stay tuned — my first set of portfolio projects will be live soon!
 
 📫 Let's Connect
 
