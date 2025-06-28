@@ -39,6 +39,7 @@ I'm actively building and contributing to:
 </p>
 
 💼 Project Interests & Ongoing Learning
+
 As I progress through the ALX Front-End Software Engineering program, I'm actively learning and building the foundational skills to work on real-world projects.
 
 I'm currently focused on:
