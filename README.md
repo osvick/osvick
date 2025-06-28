@@ -17,27 +17,6 @@ My journey into software engineering began with a curiosity for how technology t
 
 To use technology and education to empower individuals and communities, making tools and knowledge accessible for everyone—especially those often left behind.
 
-💡 What I'm Working On
-
-I'm actively building and contributing to:
-
-- 🔧 **Responsive front-end projects** using HTML, CSS, JavaScript, React, and Tailwind
-- 🎓 **Educational tools and platforms** for students and teachers
-- 🌍 **Civic-tech and community-driven tools** to drive awareness and empowerment
-- ⚙️ **Open-source beginner-friendly repositories** to help others get started
-
-📌 Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
-
 💼 Project Interests & Ongoing Learning
 
 As I progress through the ALX Front-End Software Engineering program, I'm actively learning and building the foundational skills to work on real-world projects.
@@ -61,6 +40,18 @@ I'm excited to soon begin work on:
 📊 Portfolio-ready projects that showcase responsive design and clean code
 
 Stay tuned — my first set of portfolio projects will be live soon!
+
+📌 Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
 
 📫 Let's Connect
 
