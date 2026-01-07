@@ -3,17 +3,17 @@
 <p align="center">
   Frontend & Mobile App Developer | Tech Educator  
 </p>
-
+---
 I build responsive web and mobile applications and enjoy teaching, mentoring, and breaking down technical concepts into clear, practical steps.
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 - Frontend & Mobile App Developer with hands-on experience building real-world projects
 - Background in Human Physiology with over three years of teaching experience
 - Experienced with React, React Native, Firebase, and modern frontend tools
 - Passionate about using technology to improve education, accessibility, and everyday digital experiences
 
-
+---
 ## 🛠 Tech Stack
 
 **Frontend**
@@ -30,19 +30,6 @@ I build responsive web and mobile applications and enjoy teaching, mentoring, an
 
 **Tools**
 - Git, GitHub, Vercel
-
-
-📌 Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</p>
 
 ## 📌 Featured Projects
 
