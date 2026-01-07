@@ -1,45 +1,35 @@
 <h1 align="center">Hi there, I'm Osinachi Aluche 👋</h1>
 
 <p align="center">
-  🌍 Front-End Developer | 💻 Lifelong Learner | 🌱 Community Builder
+  Frontend & Mobile App Developer | Tech Educator  
+  I build responsive web and mobile applications and enjoy teaching, mentoring, and breaking down technical concepts into clear, practical steps.
 </p>
 
 👨‍💻 About Me
 
-I'm currently enrolled in the <strong>ALX Front-End Software Engineering Program</strong>, where I’m building core technical skills and applying them to real-world problems.
+- Frontend & Mobile App Developer with hands-on experience building real-world projects
+- Background in Human Physiology with over three years of teaching experience
+- Experienced with React, React Native, Firebase, and modern frontend tools
+- Passionate about using technology to improve education, accessibility, and everyday digital experiences
 
-My journey into software engineering began with a curiosity for how technology transforms society and a strong desire to contribute to meaningful digital solutions. With a background in human physiology and a foundation in communication, teaching, and cybersecurity, I’m passionate about **using technology to empower others**—especially youth and underserved communities.
 
-🧠 I thrive on self-learning, collaborative building, and improving systems that matter.  
-🔥 I am particularly inspired by accessible design, education platforms, and purposeful innovation.
+## 🛠 Tech Stack
 
-🎯 My Vision
+**Frontend**
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
 
-To use technology and education to empower individuals and communities, making tools and knowledge accessible for everyone—especially those often left behind.
+**Mobile**
+- React Native, Expo
 
-💼 Project Interests & Ongoing Learning
+**Backend & Data**
+- Firebase (Authentication & Database)
+- Convex
+- API Integration
 
-As I progress through the ALX Front-End Software Engineering program, I'm actively learning and building the foundational skills to work on real-world projects.
+**Tools**
+- Git, GitHub, Vercel
 
-I'm currently focused on:
-
-🧱 Strengthening my front-end development skills with HTML, CSS, JavaScript, React, and Tailwind.
-
-🧠 Understanding UI/UX best practices and how to build accessible, user-friendly interfaces.
-
-📚 Completing structured learning tasks and practice challenges to prepare for hands-on development.
-
-👥 Exploring collaboration opportunities with peers on beginner-friendly open-source projects.
-
-I'm excited to soon begin work on:
-
-🎓 Educational platforms and learning tools
-
-🌍 Civic-tech or health-awareness web apps
-
-📊 Portfolio-ready projects that showcase responsive design and clean code
-
-Stay tuned — my first set of portfolio projects will be live soon!
 
 📌 Skills & Tools
 
@@ -53,11 +43,45 @@ Stay tuned — my first set of portfolio projects will be live soon!
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
-📫 Let's Connect
+## 📌 Featured Projects
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/osinachi-aluche/)
-- 📬 Email: Osinachialuchevictor@gmail.com
-- 🌟 Open to collaboration, mentorship, and mission-driven projects!
+### 📱 Todo Mobile App (React Native)
+A mobile application for managing daily tasks, built to practice mobile UI development, state management, and backend integration.
+
+**Tech:** React Native, Expo, Convex  
+🔗 Repo: https://github.com/osvick/react-native-todo-app
+
+---
+
+### 🏫 School Management Web Application
+A role-based school management system with dashboards for administrators, teachers, students, and parents. Includes authentication and access control.
+
+**Tech:** React, Firebase, Tailwind CSS  
+🔗 Repo: https://github.com/osvick/School-Management-Web-Application
+
+---
+
+### 🎬 Movie Database Application
+A responsive web app for browsing and exploring movies using a public movie API.
+
+**Tech:** React, Tailwind CSS, OMDB API  
+🔗 Live: https://moviedatabase-app-liart.vercel.app  
+🔗 Repo: https://github.com/osvick/moviedatabase-app
+
+---
+
+## 🎓 Experience & Learning
+- Frontend & Technology Instructor (3+ years)
+- Cybersecurity Intern — 3MTT-NJFP Fellowship
+- ALX Front-End Engineering Program Graduate
+- ALX Professional Foundations Certified
+
+---
+
+## 📫 Connect With Me
+- 🌐 Portfolio: https://osinachialuche-portfolio.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/osinachi-aluche
+- 📧 Email: osinachialuchevictor@gmail.com
 
 <h3 align="center">“Aspire to inspire before you expire.”</h3>
 <p align="center">Thank you for visiting my GitHub profile ✨</p>
