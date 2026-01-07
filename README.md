@@ -2,8 +2,8 @@
 
 <p align="center">
   Frontend & Mobile App Developer | Tech Educator  
-  I build responsive web and mobile applications and enjoy teaching, mentoring, and breaking down technical concepts into clear, practical steps.
 </p>
+I build responsive web and mobile applications and enjoy teaching, mentoring, and breaking down technical concepts into clear, practical steps.
 
 👨‍💻 About Me
 
